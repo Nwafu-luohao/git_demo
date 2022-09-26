@@ -1,0 +1,3 @@
+#include <stdio.h>
+
+wo shi ni die !!
