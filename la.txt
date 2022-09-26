@@ -1,3 +1,4 @@
 #include <stdio.h>
 
 wo shi ni die master !!
+wo shi ni die hot-fix !!
